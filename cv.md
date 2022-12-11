@@ -22,3 +22,14 @@ ___
 * Pre-Intermediate level of English (Reading technical documentation, conducting a conversation on general topics)
 * Skills of writing SQL queries
 * Knowledge of the MS Office software package
+## Work experience:
+|        Experience        	| Company name 	|                        Position                        	|                                      Responsibilities                                      	|
+|:------------------------:	|:------------:	|:------------------------------------------------------:	|:------------------------------------------------------------------------------------------:	|
+| June 2019-September 2019 	|    Drobex    	|                  Storekeeper-operator                  	|   Work in the warehouse for sorting, preparing products for shipment and keeping records   	|
+|    June 2021-July 2021   	|     NASKA    	| Frontend developer intern practice from the universiti 	| Development of a website page for an electronic document management system. Used HTML, CSS 	|
+|                          	|              	|                                                        	|                                                                                            	|
+## Languages:
+* Russian - native speacker
+* English - A2 
+* Ukrainian - native speacker            	
+* Polish - A2
