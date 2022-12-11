@@ -14,3 +14,11 @@ ___
 |        2018       	|        2022         	| Donetsk National Technical University 	| Computer Science and Technology Busines Informatics Direction of training: 38.03.05 	|
 |                   	|                    	|                                       	|                                                                                     	|
 |                   	|                    	|                                       	|                                                              
+## Key skills:
+* Knowledge of the Git version control system
+* Ability to do sites using HTML, CSS
+* Knowledge of the PHP programming language (OOP at the level of writing simple classes)
+* Knowledge of the principles of work of WEB-applications
+* Pre-Intermediate level of English (Reading technical documentation, conducting a conversation on general topics)
+* Skills of writing SQL queries
+* Knowledge of the MS Office software package
